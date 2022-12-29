@@ -1,1 +1,2 @@
-# cedolino_dl
+# Cedolino (PDF) Downloader
+## Informazioni
